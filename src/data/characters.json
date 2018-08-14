@@ -1,0 +1,170 @@
+[
+    {
+      "id": 0,
+      "name": "Doctor Strange",
+      "strength": 10,
+      "intelligence": 10,
+      "speed": 9
+    },
+    {
+      "id": 1,
+      "name": "Iron Man",
+      "strength": 7,
+      "intelligence": 10,
+      "speed": 6
+    },
+    {
+      "id": 2,
+      "name": "Captain America",
+      "strength": 7,
+      "intelligence": 7,
+      "speed": 7
+    },
+    {
+      "id": 3,
+      "name": "Thor",
+      "strength": 10,
+      "intelligence": 6,
+      "speed": 10
+    },
+    {
+      "id": 4,
+      "name": "Hulk",
+      "strength": 10,
+      "intelligence": 8,
+      "speed": 7
+    },
+    {
+      "id": 5,
+      "name": "Black Panther",
+      "strength": 9,
+      "intelligence": 7,
+      "speed": 8
+    },
+    {
+      "id": 6,
+      "name": "Spider-Man",
+      "strength": 9,
+      "intelligence": 8,
+      "speed": 6
+    },
+    {
+      "id": 7,
+      "name": "Bucky",
+      "strength": 5,
+      "intelligence": 7,
+      "speed": 7
+    },
+    {
+      "id": 8,
+      "name": "Hawkeye",
+      "strength": 5,
+      "intelligence": 8,
+      "speed": 8
+    },
+    {
+      "id": 9,
+      "name": "Black Widow",
+      "strength": 6,
+      "intelligence": 9,
+      "speed": 7
+    },
+    {
+        "id": 10,
+        "name": "Falcon",
+        "strength": 4,
+        "intelligence": 5,
+        "speed": 7
+      },
+      {
+        "id": 11,
+        "name": "Scarlett Witch",
+        "strength": 10,
+        "intelligence": 8,
+        "speed": 8
+      },
+      {
+        "id": 12,
+        "name": "Vision",
+        "strength": 8,
+        "intelligence": 10,
+        "speed": 7
+      },
+      {
+        "id": 13,
+        "name": "War Machine",
+        "strength": 6,
+        "intelligence": 4,
+        "speed": 8
+      },
+      {
+        "id": 14,
+        "name": "Star Lord",
+        "strength": 5,
+        "intelligence": 5,
+        "speed": 5
+      },
+      {
+        "id": 15,
+        "name": "Gamora",
+        "strength": 7,
+        "intelligence": 8,
+        "speed": 7
+      },
+      {
+        "id": 16,
+        "name": "Groot",
+        "strength": 9,
+        "intelligence": 4,
+        "speed": 6
+      },
+      {
+        "id": 17,
+        "name": "Rocket",
+        "strength": 5,
+        "intelligence": 9,
+        "speed": 5
+      },
+      {
+        "id": 18,
+        "name": "Drax",
+        "strength": 7,
+        "intelligence": 3,
+        "speed": 5
+      },
+      {
+        "id": 19,
+        "name": "Nebula",
+        "strength": 6,
+        "intelligence": 7,
+        "speed": 6
+      },
+      {
+        "id": 20,
+        "name": "Mantis",
+        "strength": 6,
+        "intelligence": 6,
+        "speed": 4
+      },
+      {
+        "id": 21,
+        "name": "Wong",
+        "strength": 8,
+        "intelligence": 9,
+        "speed": 6
+      },
+      {
+        "id": 22,
+        "name": "Shuri",
+        "strength": 10,
+        "intelligence": 10,
+        "speed": 6
+      },
+      {
+        "id": 23,
+        "name": "Okoye",
+        "strength": 6,
+        "intelligence": 7,
+        "speed": 6
+      }
+  ]
